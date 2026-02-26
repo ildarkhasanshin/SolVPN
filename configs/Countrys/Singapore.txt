@@ -1,7 +1,0 @@
-trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?allowInsecure=0&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=%2F&security=tls&encryption=none&insecure=1&host=rukawa.pages.dev&type=ws&allowInsecure=1&sni=rukawa.pages.dev#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=Pulavpn11.afrcloud22.mmv.kr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.173.243%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
