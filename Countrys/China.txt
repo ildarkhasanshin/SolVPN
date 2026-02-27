@@ -37,3 +37,4 @@ vmess://eyJhZGQiOiI4LjIxOC41Mi41IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY@45.39.198.41:46605#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://26524cce-d514-4014-a426-365fb266a14d@47.76.218.163:443?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://26524cce-d514-4014-a426-365fb266a14d@43.154.124.136:26666?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
