@@ -1,2 +1,1 @@
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F&type=tcp&headerType=none#🇱🇻 Join+Telegram:@Farah_VPN 🇱🇻
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🇱🇻 Join+Telegram:@Farah_VPN 🇱🇻
+vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?security=reality&encryption=none&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=cd620180#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
