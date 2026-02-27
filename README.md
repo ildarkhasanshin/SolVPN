@@ -10,20 +10,6 @@ Supports multiple protocols, countries, and ready-to-use subscription links.
 
 ---
 
-## 🌐 Choose Your Language / زبان خود را انتخاب کنید / اختر لغتك / Choisir la langue / Elige tu idioma
-
-| Language | File | Link |
-|----------|------|------|
-| English 🇬🇧 | `README_en.md` | [Open English](README_en.md) |
-| فارسی 🇮🇷 | `README_fa.md` | [باز کردن فارسی](README_fa.md) |
-| العربية 🇸🇦 | `README_ar.md` | [افتح العربية](README_ar.md) |
-| Español 🇪🇸 | `README_es.md` | [Abrir Español](README_es.md) |
-| Français 🇫🇷 | `README_fr.md` | [Ouvrir Français](README_fr.md) |
-
-> Click any link to switch the language.
-
----
-
 ## 🔐 Supported Protocols (RAW Links)
 
 | Protocol | RAW Link |
