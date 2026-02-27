@@ -390,3 +390,4 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.153.77.88:35250?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?encryption=none&security=none&type=tcp&headerType=none#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.128.140.218:443?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳+@WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
