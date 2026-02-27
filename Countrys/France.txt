@@ -9,3 +9,5 @@ ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷 Join+Telegr
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@45.13.119.38:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRU5fTDZtc0w4cm11U1B5d1I0TTBxTV8xX3R4WjhENQ@45.95.233.133:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:8443?type=ws&security=tls&sni=sni.111000.v6.navy&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳+@WangCai2#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
