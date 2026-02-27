@@ -102,7 +102,4 @@ Click on a language to switch the README:
 | العربية خلیج | 🇦🇪 | [README_ar_ae.md](README_ar_ae.md) |
 | Việt | 🇻🇳 | [README_vi.md](README_vi.md) |
 
-> You can expand this table for any other country/language with high censorship or VPN restrictions.  
-> Users just click the link and the README switches to that language.
-
 ---
