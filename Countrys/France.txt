@@ -11,3 +11,5 @@ vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reali
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRU5fTDZtc0w4cm11U1B5d1I0TTBxTV8xX3R4WjhENQ@45.95.233.133:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:8443?type=ws&security=tls&sni=sni.111000.v6.navy&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳+@WangCai2#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.182.98.38:8443?path=/?ed=2560&Telegram-@ATLAS_V2VPN&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
