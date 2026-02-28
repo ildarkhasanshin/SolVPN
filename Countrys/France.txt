@@ -42,3 +42,4 @@ vless://26524cce-d514-4014-a426-365fb266a14d@188.165.1.138:2053?&security=tls&fp
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@185.120.59.94:8443?security=reality&encryption=none&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none&path=/#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.57.4:2053?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://26524cce-d514-4014-a426-365fb266a14d@95.182.96.30:2053?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
