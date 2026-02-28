@@ -59,3 +59,4 @@ vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.18.86.181:443?&security=tls&fp=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&sni=jsygouer.weixin-baidu-qq.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403?security=none&type=tcp&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
