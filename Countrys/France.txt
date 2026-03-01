@@ -44,3 +44,4 @@ trojan://telegram-id-privatevpns@13.37.204.35:22222?security=tls&alpn=http/1.1&h
 vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@95.163.210.159:80?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?type=tcp&security=reality&sni=yandex.ru&path=/&fp=chrome&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&sid=34d8e80d8fa40501#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.133.61:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&security=reality&sid=7cad5040&sni=www.cloudflare.com&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
