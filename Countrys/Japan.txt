@@ -33,3 +33,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.104.30:443?encryption=none&s
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=6ba85179e30d4fc2#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@52.199.90.129:32536?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vless://26524cce-d514-4014-a426-365fb266a14d@162.159.44.106:443?&security=tls&fp=chrome&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
