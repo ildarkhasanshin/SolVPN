@@ -1,5 +1,5 @@
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=94f9&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&encryption=none#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=94f9#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?path=//connect&security=&encryption=none&host=GitHub.com&type=ws#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://26524cce-d514-4014-a426-365fb266a14d@194.135.22.181:443?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
