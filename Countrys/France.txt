@@ -45,3 +45,4 @@ vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?type=tcp&securit
 trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.133.61:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&security=reality&sid=7cad5040&sni=www.cloudflare.com&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.224.25:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://26524cce-d514-4014-a426-365fb266a14d@94.23.78.198:2053?security=tls&sni=cyuxj212pnq.chinat.indevs.in&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng?ed=2560&fp=chrome#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
