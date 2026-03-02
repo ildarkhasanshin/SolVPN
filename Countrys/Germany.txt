@@ -173,3 +173,4 @@ vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@47.91.94.112:10040?security=none&en
 vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&security=reality&sid=479826bdfc3eb86e&sni=www.speedtest.net&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=/tixvuws&security=tls&sni=vangoghhh.info&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
