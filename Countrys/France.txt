@@ -51,3 +51,4 @@ vless://26524cce-d514-4014-a426-365fb266a14d@95.182.96.30:2053?path=/danfeng?ed=
 vless://26524cce-d514-4014-a426-365fb266a14d@188.165.1.138:2053?&security=tls&fp=chrome&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://26524cce-d514-4014-a426-365fb266a14d@51.159.6.227:2053?path=/danfeng?ed=2560&security=tls&encryption=none&host=_acme-challenge.443888.xyz&fp=chrome&type=ws&sni=_acme-challenge.443888.xyz#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://add14a5b-f648-4423-8a1f-8b8f54c0daef@195.154.200.13:17401?encryption=none&fp=chrome&pbk=IXcXrT_Y0ATTZlGOhPnSmKo-cuGr4yMKV9Rz4-nA3yU&security=reality&sid=8ef4455ba637425b&sni=itunes.apple.com&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
