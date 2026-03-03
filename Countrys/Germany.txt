@@ -179,3 +179,4 @@ vless://10f11182-a46e-42fc-9fec-f81baa39fa3a@140.248.165.204:80?path=/containers
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://00000000-0000-4000-8000-000000000000@37.120.165.33:8444?allowInsecure=1&encryption=none&host=mg7w1wjw8ak76znl5defo0678z.saghv.filegear-sg.me&path=/@Marisa_kristi&security=tls&sni=mg7w1wjw8ak76znl5defo0678z.saghv.filegear-sg.me&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://09825436-5781-496b-83bd-b992f7b6ef0f@104.18.32.47:8443?allowInsecure=1&encryption=none&host=xpb.parsfast.ir&path=%2F&security=tls&sni=xpb.parsfast.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?security=tls&type=ws&path=%2F%3Fed&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
