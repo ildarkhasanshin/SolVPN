@@ -187,3 +187,4 @@ vless://42a7df85-0739-4760-a248-32a491abfa2a@gb01-vlr01.tcp-reset-club.net:22443
 trojan://telegram-id-privatevpns@52.28.154.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@144.31.98.218:8443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRHQ4Y0cxVExnNHVCMG5VTU9BdQ@91.107.144.0:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
