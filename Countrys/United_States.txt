@@ -226,3 +226,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encrypti
 vless://47702dbb-6607-4d76-80e9-cd75327be3e7@162.159.44.109:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=/proxyip=sjc.o00o.ooo:443&security=tls&sni=zrf-623.pages.dev&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh17v6.carwashipdir.shop&type=grpc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?type=grpc&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
