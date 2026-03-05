@@ -192,3 +192,4 @@ vless://c19fb567-74a9-454f-9757-e612fc4be371@62.141.32.238:8443?security=reality
 vless://c19fb567-74a9-454f-9757-e612fc4be371@85.114.138.39:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dropbox.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://e5a33157-a449-4a25-8bd4-d2b02d66aa38@de2.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.182.150.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f85c9efa-da9d-4f86-a497-e92a89ffb572@F2.HaMrAhCoNf.Ir:8443?security=tls&type=ws&headerType=&path=/&host=p3-sync-06.secoxi.site&sni=sp.secoxi.site&fp=chrome#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
