@@ -17,3 +17,4 @@ vless://47702dbb-6607-4d76-80e9-cd75327be3e7@162.159.38.119:443?allowInsecure=1&
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.10.52:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 vless://47702dbb-6607-4d76-80e9-cd75327be3e7@162.159.44.109:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=/proxyip=sjc.o00o.ooo:443&security=tls&sni=zrf-623.pages.dev&type=ws#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
