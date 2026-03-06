@@ -72,3 +72,4 @@ trojan://BxceQaOe@43.199.159.207:38301?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 trojan://BxceQaOe@13.192.170.234:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@95.40.10.51:1717?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@54.199.30.7:28680?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://telegram-id-privatevpns@63.183.63.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
