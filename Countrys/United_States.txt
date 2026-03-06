@@ -244,3 +244,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMkRucHhMVGo0SUVlTE1R@104.211.63.232:443#�
 vless://26524cce-d514-4014-a426-365fb266a14d@192.3.127.51:8443?&security=tls&fp=random&sni=fqrf5tlc.chinav.eu.org&type=ws&headerType=none&host=fqrf5tlc.chinav.eu.org&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@54.199.30.7:28680?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v6.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
