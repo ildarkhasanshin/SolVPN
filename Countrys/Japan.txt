@@ -41,3 +41,6 @@ vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?security=reality&
 trojan://BxceQaOe@13.192.170.234:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@140.83.57.114:25965?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://YWVzLTI1Ni1nY206MDY5MDY1OTc0Njk4MGM0Ng@167.17.179.197:60129#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://BxceQaOe@57.180.10.241:4945?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
