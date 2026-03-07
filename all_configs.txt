@@ -1461,3 +1461,7 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?sni=www.nintendog
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.130.21:4019?sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@43.198.86.230:2960?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://f6c7016b-6f94-4a32-975c-013f2494d312@uk2.miyazono-kaori.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&security=reality&sid=20&sni=www.bp.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://f6c7016b-6f94-4a32-975c-013f2494d312@uk1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&security=reality&sid=d923&sni=www.bp.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://f6c7016b-6f94-4a32-975c-013f2494d312@fr1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OhVlH8lBJp6uiNx_RrMQcp3mxyguvSeCAiymCtLIhTc&security=reality&sid=65ef&sni=www.lvmh.com&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
