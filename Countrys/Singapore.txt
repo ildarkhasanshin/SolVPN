@@ -68,7 +68,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.0.238:2096?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.238:2096?path=/?ed=2560&telegram🇨🇳 @vaynora&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403?security=none&type=tcp&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://BxceQaOe@95.40.88.242:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.159.100:990#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://4f4a8022-0a8e-4f55-9883-777b6830802e@a.monohob.eu.org:443?security=tls&type=ws&path=/vless&host=a.monohob.eu.org&sni=a.monohob.eu.org&fp=chrome&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&%3Bsecurity=tls&%3Bhost=ubu.okaoclax.me&%3Btype=ws&%3Bsni=ubu.okaoclax.me#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
