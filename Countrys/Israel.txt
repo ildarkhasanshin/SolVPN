@@ -3,3 +3,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11202#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@israel.youtuber-vps.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&security=reality&sid=b95d09fc94955ba4&sni=israel.youtuber-vps.com&type=tcp#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
