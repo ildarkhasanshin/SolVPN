@@ -1,3 +1,4 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.63:443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 vless://42a7df85-0739-4760-a248-32a491abfa2a@ltu01-vlr01.tcp-reset-club.net:12443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
