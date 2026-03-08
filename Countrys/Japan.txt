@@ -45,3 +45,4 @@ trojan://BxceQaOe@57.180.10.241:4945?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@103.213.249.62:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&sid=6ba85179e30d4fc2#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+vmess://eyJhZGQiOiIzMS41OC4yMjMuMTM0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijc4Y2RjNmI3LThiMTQtNDdkNi1iZjA5LTMxNjdiYzUxMjRmYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
