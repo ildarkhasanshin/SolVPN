@@ -20,7 +20,6 @@ trojan://c52d2de2-fc6d-490c-8421-132f87615736@bgty6.852224.xyz:443?security=tls&
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://c558328b-eb46-424c-b9e0-574770f0b072@ko9.999864.xyz:443?security=tls&sni=ko9.999864.xyz&alpn=http/1.1&type=ws&host=ko9.999864.xyz&path=/ks4McWjhV7bXNC0BXGtJ&allow_insecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@ggbnhj.932.pp.ua:443?path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http/1.1&insecure=0&host=ggbnhj.932.pp.ua&type=ws&allowInsecure=0&sni=ggbnhj.932.pp.ua#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@bnh.818185.xyz:443?security=tls&sni=bnh.818185.xyz&alpn=http/1.1&type=ws&host=bnh.818185.xyz&path=/8uSIAS1cIyvZXFAbvQEN&allow_insecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com¬e=@FreeOnlineVPN#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://iwangjie@158.101.11.204:15805?encryption=none&security=tls&sni=nodes.830901.xyz&fp=chrome&insecure=1&type=ws&host=nodes.830901.xyz&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
