@@ -1496,3 +1496,5 @@ vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@43.161.222.233:443?&security=tls&fp
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTI1Ni1nY206YTMzOEE5@8.210.182.238:8888#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@israel.youtuber-vps.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&security=reality&sid=b95d09fc94955ba4&sni=israel.youtuber-vps.com&type=tcp#🇮🇱 Join+Telegram:@SolVPN 🇮🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.17.254:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
