@@ -1596,3 +1596,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.98.207.58:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.233.121.202:20205?&security=tls&fp=random&alpn=http/1.1&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng#🇪🇸 Join+Telegram:@SolVPN 🇪🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@47.250.13.254:39738?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#🇲🇾 Join+Telegram:@SolVPN 🇲🇾
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNjkzNzRkYS0yMjA4LTRjYmQtYjgxZS1jZGY4OGI1ZTdmNTM@54.46.78.97:29000#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@144.172.96.8:4433?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
