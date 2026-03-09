@@ -289,3 +289,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@50.116.57.241:20205?&security=tls&f
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@108.162.198.166:443?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@107.174.121.122:443?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@142.171.192.103:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@54.193.53.75:10002?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
