@@ -116,3 +116,4 @@ vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.251.95.178:443?&security=tls&fp=
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@141.11.95.10:18443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@179.43.176.216:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.120:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@87.120.166.7:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
