@@ -64,3 +64,4 @@ vless://f6c7016b-6f94-4a32-975c-013f2494d312@uk2.miyazono-kaori.com:443?Telegram
 vless://f6c7016b-6f94-4a32-975c-013f2494d312@uk1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&security=reality&sid=d923&sni=www.bp.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.17.254:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@151.243.28.124:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&security=reality&sid=abcd1234&sni=www.google.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@20.49.200.10:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
