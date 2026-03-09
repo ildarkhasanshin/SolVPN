@@ -19,3 +19,4 @@ vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=realit
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.217.9.110:24443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@62.133.63.61:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=/vpnjantit#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
+vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
