@@ -83,3 +83,4 @@ trojan://BxceQaOe@95.40.10.51:1717?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?encryption=none&host=free-server.techsonic.ggff.net&path=/@Tech_Sonic&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://847975b8-6bd5-4904-de77-6b5590800f5d@47.236.152.192:46137?&type=tcp&headerType=none&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://YWVzLTI1Ni1nY206YTMzOEE5@8.210.182.238:8888#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c2xHKzBUVGgzb29SODlFR0NlYTkxQ3VBbVBLNFJWVWRjN2FoOUVOTjNqWT0@43.128.111.119:38012#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
