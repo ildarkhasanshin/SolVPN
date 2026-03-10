@@ -2,3 +2,4 @@ vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?type=ws&encryp
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
 vless://4292f5ab-8963-1770-8052-3615895ce4f1@146.185.242.246:51006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d8c6b58bcbb0c323#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af&type=tcp&headerType=none#🇪🇪 Join+Telegram:@SolVPN 🇪🇪
