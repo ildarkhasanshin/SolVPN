@@ -120,3 +120,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@87.120.166.7:443?&security=tls&fp=r
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.98.207.58:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.63.168.172:39738?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.63.168.172:39738?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=/danfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
