@@ -1694,3 +1694,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@143.20.207.149:8443?&security=tls&f
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@108.162.198.236:443?&security=tls&fp=random&sni=snippet.fgfw.cc.cd&type=ws&headerType=none&host=snippet.fgfw.cc.cd&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0hhRnlENElwVzhXMkxD@102.37.237.190:443#🇿🇦 Join+Telegram:@SolVPN 🇿🇦
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.8.60.246:443?&security=tls&fp=random&sni=snippet.fgfw.cc.cd&type=ws&headerType=none&host=snippet.fgfw.cc.cd&path=%2Fdanfeng#🇱🇻 Join+Telegram:@SolVPN 🇱🇻
