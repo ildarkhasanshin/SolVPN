@@ -70,3 +70,4 @@ vless://71322f86-f37a-4929-ada0-05e6a2688145@uk2.pineappled.org:443?encryption=n
 trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443?security=tls&type=ws&sni=hl-freedom-2.undef.network&path=/f2fc2a1f&host=hl-freedom-2.undef.network#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.142.123.170:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.112.134:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
