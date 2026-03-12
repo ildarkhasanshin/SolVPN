@@ -71,3 +71,4 @@ trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443?security=tls&t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.142.123.170:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.112.134:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.145.91.161:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
