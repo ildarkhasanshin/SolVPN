@@ -7,3 +7,4 @@ vless://26524cce-d514-4014-a426-365fb266a14d@152.69.174.99:25248?&security=tls&f
 vless://26524cce-d514-4014-a426-365fb266a14d@152.69.174.99:25248?security=tls&type=ws&path=/danfeng?ed=2560&host=_acme-challenge.443888.xyz&sni=_acme-challenge.443888.xyz&fp=chrome&encryption=none#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47385#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?security=reality&sni=swdist.apple.com&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?encryption=none&security=tls&sni=snippet.fgfw.indevs.in&insecure=0&allowInsecure=0&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
