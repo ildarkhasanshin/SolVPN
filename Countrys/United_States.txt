@@ -329,3 +329,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.85.139.204:443?&security=tls&fp=
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@150.136.52.121:50008?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.de5.net&type=ws&headerType=none&host=snippet.fgfw.de5.net&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.63.168.172:39738?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=/danfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.245.64.39:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.de5.net&type=ws&headerType=none&host=snippet.fgfw.de5.net&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@64.186.233.74:10001?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.de5.net&type=ws&headerType=none&host=snippet.fgfw.de5.net&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
