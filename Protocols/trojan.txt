@@ -50,6 +50,7 @@ trojan://BxceQaOe@18.162.142.234:45947?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&sni=uk-1.fishchipsexpress.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@95.40.61.115:443?allowInsecure=1&sni=snll667.pages.dev&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=snll667.pages.dev&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://f976ac58-b52a-4a54-9c8e-3d49fd365232@220.130.58.136:35501?allowInsecure=0&sni=green2.cdntencentmusic.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://11cfbea5-eae4-4654-8aa9-a9481f38dc42@220.130.58.136:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://852a0251-7fbd-4a07-a365-352695af950c@220.130.58.136:31103?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
@@ -92,7 +93,6 @@ trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&in
 trojan://telegram-id-privatevpns@63.183.124.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443?security=tls&type=ws&sni=hl-freedom-2.undef.network&path=/f2fc2a1f&host=hl-freedom-2.undef.network#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
-trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@95.40.61.115:443?allowInsecure=1&sni=snll667.pages.dev&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=snll667.pages.dev&path=%2F#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@sg03.stimaysmhy8.com:35902?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
