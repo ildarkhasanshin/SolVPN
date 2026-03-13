@@ -247,3 +247,4 @@ vless://4e6b23f2-932b-4a80-a280-44cdf8a86452@144.76.188.139:443?type=ws&encrypti
 trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@80.253.249.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sni=apple.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@xxx.vles.space:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4iRluJhaeflkqdEO8RLeLxTeTVIhzw9r8Y35fppsTFg&security=reality&sni=sun1-91.userapi.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&insecure=1&type=ws&host=ca.adobe-connect.top&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
