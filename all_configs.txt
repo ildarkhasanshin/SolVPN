@@ -1266,7 +1266,7 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowI
 vless://66bb28f3-6d53-4e48-a8ee-15832815c359@212.233.92.193:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=5dhqQP68hzsZN7lKNcZQLcDLMZ8PRwpE70pHyUr_sRs&sid=2c01bea1#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
 vless://899251ca-be66-4d21-84d8-bd7fbf10150b@195.133.88.238:61809?security=reality&type=tcp&sni=yandex.ru&fp=chrome&sid=741a96cc25132fe3&pbk=0Orr9QAz2hKT1K6aKa64azrlgdh4DMkwvTRg1FacNAI#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjU0ZDk1N2M1ZjYxNjQw@38.54.93.107:11201#🇰🇭 Join+Telegram:@SolVPN 🇰🇭
-trojan://iwangjie@158.101.11.204:15805?encryption=none&security=tls&sni=nodes.830901.xyz&fp=chrome&insecure=1&type=ws&host=nodes.830901.xyz&path=/#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.59.187.94:443?&security=tls&fp=chrome&sni=zgtwylnhh.cc.cd&type=ws&headerType=none&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳@WangCai2#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://00000000-0000-4000-8000-000000000000@37.120.165.33:8444?allowInsecure=1&encryption=none&host=mg7w1wjw8ak76znl5defo0678z.saghv.filegear-sg.me&path=/@Marisa_kristi&security=tls&sni=mg7w1wjw8ak76znl5defo0678z.saghv.filegear-sg.me&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://09825436-5781-496b-83bd-b992f7b6ef0f@104.18.32.47:8443?allowInsecure=1&encryption=none&host=xpb.parsfast.ir&path=%2F&security=tls&sni=xpb.parsfast.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?security=tls&type=ws&path=%2F%3Fed&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
@@ -1795,3 +1795,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=/danfeng&se
 vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?encryption=none&security=none&type=ws&path=%2F%40FeriVP%2F%40FeriVP%2F%40FeriVP#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.124:443?allowInsecure=1&encryption=none&host=war.connecticut-haloo.info&path=%2Flove&security=tls&sni=war.connecticut-haloo.info&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
