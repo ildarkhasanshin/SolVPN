@@ -1175,7 +1175,6 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@188.132.192.194:2053?&security=tls&
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.133.0.135:2053?&security=tls&fp=chrome&sni=snippet.fgfw.ccwu.cc&type=ws&headerType=none&host=snippet.fgfw.ccwu.cc&path=%2Fdanfeng#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@83.229.121.78:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?path=/&security=none&encryption=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@107.175.134.148:8443?type=tcp&security=reality&pbk=t3IF8s_RN_HZ-5ctUuraQBb0_oeK_w5RJi4ZUta3CTM&fp=chrome&sni=yahoo.com&sid=735ec12afced6017&spx=/&flow=xtls-rprx-vision&encryption=none#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:443?path=/&security=none&encryption=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=/&security=none&encryption=none&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.180.113.22:443?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=/danfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -1211,3 +1210,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@23.152.200.75:443?&security=tls&fp=
 vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@3g.vles.space:510?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gTLxGPaumAT1gY3dEXIbZcr0Ocspb1hdrEG5oBkPOA8&security=reality&sni=cdn.vkvideo.ru&type=tcp#🇲🇩 Join+Telegram:@SolVPN 🇲🇩
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@166.117.33.104:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.danfeng.theworkpc.com&type=ws&headerType=none&host=snippet.danfeng.theworkpc.com&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.227.138.249:8443?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=/danfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&insecure=1&type=ws&host=ca.adobe-connect.top&path=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
