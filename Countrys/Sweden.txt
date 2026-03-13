@@ -25,3 +25,4 @@ vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?type=tcp
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@78.40.116.242:443?encryption=none&fp=chrome&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&security=reality&sid=9c2378562188c3cb&sni=se.denditop.site&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
