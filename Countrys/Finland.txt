@@ -51,3 +51,5 @@ vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?encryption=none&f
 vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8083?encryption=none&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=max.ru&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@45.144.53.229:443?allowInsecure=1&encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://8cab5d60-588b-41a4-a915-fc2b279bd277@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?path=/ed=2560&security=none&encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&type=ws#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+vless://446879b9-710c-431b-94d0-f6b4c18a528a@45.12.151.148:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
