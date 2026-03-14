@@ -937,7 +937,6 @@ vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?encryption=none&
 vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@cdn123.global.ssl.fastly.net:443?path=/site&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn123.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=cdn123.global.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@179.43.176.216:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇮🇹 Join+Telegram:@SolVPN 🇮🇹
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@89.169.8.105:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@146.235.199.164:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@140.83.57.114:25965?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
@@ -1264,3 +1263,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&enc
 vless://d46ad20a-4454-4da7-8f9c-87f9152bedee@63.141.128.188:443?&security=tls&fp=safari&sni=d2-jp1.djwstlsweb.top&type=ws&headerType=none&host=d2-jp1.djwstlsweb.top&path=%2Fdjjc%2Fjp1#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.98.207.58:443?encryption=none&security=tls&sni=snippet.fgfw.indevs.in&type=ws&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.183.219:35457?encryption=none&security=tls&sni=snippet.fgfw.ccwu.cc&type=ws&host=snippet.fgfw.ccwu.cc&path=%2Fdanfeng#🇵🇭 Join+Telegram:@SolVPN 🇵🇭
+vless://464854c0-d879-433b-8ae2-28bfe19ed08e@nl2.fastdbn.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn-fastly-v6.deb.debian.org&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
