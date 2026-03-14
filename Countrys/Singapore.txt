@@ -89,3 +89,4 @@ vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWJmZDQ3OS0zYzFmLTQ2ZDUtYjgzZC0zY2NiM2YwN2JmOWE@85.208.104.132:46611#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@43.199.43.18:29666?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://2979477a-f96a-45e0-be6b-c24db8af2026@195.172.138.224:20882?&security=reality&flow=xtls-rprx-vision&pbk=b31oHYKY9-2rPQOsrwvfnImU2GB2BcAc2WryZl5NEA0&sid=153d40c36343cd&fp=chrome&sni=www.tesla.com&type=tcp&headerType=none&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vmess://eyJhZGQiOiJjbjAyLjM2NWNsb3VkNTg3OC5jb20iLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJwb3J0Ijo2MDA0LCJpZCI6IjlmMWVjZmNhLTEzYTktNDg4ZC1hYzg0LWFhZWI3M2E4ZDU3NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
