@@ -253,3 +253,4 @@ vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219?encryption=none&
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?allowInsecure=1&encryption=none&host=a1d.maxriser.ir&path=/&security=tls&sni=a1d.maxriser.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://4262ba73-f5ba-03e8-9714-a2a8a19ae6d8@109.120.191.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://a0d9fda7-3694-4c6f-8486-b06f292b06a2@cf1.redforever.top:2087?security=tls&type=ws&headerType=&path=//ws?ed=2560&host=cdn.harchihast.com&sni=cdn.harchihast.com&fp=#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
