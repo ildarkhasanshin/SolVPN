@@ -71,3 +71,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?encryption=non
 trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&security=reality&sid=9c2378562188c3cb&sni=fr.denditop.site&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?encryption=none&security=none&type=ws&path=%2F%40FeriVP%2F%40FeriVP%2F%40FeriVP#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://9df02c3b-2f4c-45ff-8300-4c280b207301@144.31.214.24:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6HaGh1HqaHwxHL7-y-Xpi1vj1lsIM_b-jdY7iG5eOFA&security=reality&sid=a1b223d4&sni=fr4.darknet.run&type=tcp#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
