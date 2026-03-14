@@ -6,6 +6,7 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.137.63.78:50008?&security=tls&f
 vless://3e974f9e-f568-4c2a-a4db-e9b666b4ea9e@220.128.110.108:43?&security=tls&fp=chrome&sni=63.hhhhh.eu.org&type=ws&headerType=none&host=63.hhhhh.eu.org&path=%2F220.128.110.108%3A43#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://3e974f9e-f568-4c2a-a4db-e9b666b4ea9e@122.116.105.15:995?&security=tls&fp=chrome&sni=63.hhhhh.eu.org&type=ws&headerType=none&host=63.hhhhh.eu.org&path=%2F122.116.105.15%3A995#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@203.69.248.40:14147?allowInsecure=1&sni=snll667.pages.dev&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=snll667.pages.dev&path=%2F#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
+vless://29ff2954-dfea-4d20-8089-059cfa861453@60.248.139.106:10016?&security=tls&fp=chrome&sni=we.090881.xyz&type=ws&headerType=none&host=we.090881.xyz&path=%2Fproducts%2Fproxyip%3DProxyIP.SG.CMLiussss.net%2Fproxyip%3DProxyIP.SG.CMLiussss.net#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@114.33.57.170:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.ndjp.net&type=ws&headerType=none&host=snippet.fgfw.ndjp.net&path=%2Fdanfeng#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
