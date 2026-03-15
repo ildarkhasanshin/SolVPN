@@ -93,3 +93,4 @@ vless://2979477a-f96a-45e0-be6b-c24db8af2026@195.172.138.224:20882?&security=rea
 vmess://eyJhZGQiOiJjbjAyLjM2NWNsb3VkNTg3OC5jb20iLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJwb3J0Ijo2MDA0LCJpZCI6IjlmMWVjZmNhLTEzYTktNDg4ZC1hYzg0LWFhZWI3M2E4ZDU3NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://ZY07256934@free-duckling.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://BxceQaOe@54.238.89.170:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
