@@ -108,3 +108,6 @@ trojan://ZY07256934@closing-crow.rooster465.autos:443?type=tcp&security=tls&sni=
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=glowing-deer.rooster465.autos#🇰🇷 Join+Telegram:@SolVPN 🇰🇷
 trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://ZY07256934@free-duckling.rooster465.autos:443?allowInsecure=0#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://f389ed926e512e15f382dc3804029474@54.238.7.116:6196?allowInsecure=0&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@54.238.89.170:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://BxceQaOe@95.40.46.74:50446?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
