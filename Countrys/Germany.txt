@@ -261,3 +261,5 @@ vless://249839ff-2a99-4ecb-a81d-b7e4d6c397b8@72.56.121.206:443?type=tcp&security
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.87.24.107:8443?encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-21.userapi.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@194.87.24.101:8443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@52.58.248.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@fra01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&security=reality&sni=www.speedtest.net&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@decdn4.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=decdn4.suio.me&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
