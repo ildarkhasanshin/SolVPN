@@ -178,3 +178,4 @@ vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.103.34:10121?encryption=none
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=/?ed=2048&security=tls&encryption=none&insecure=1&host=nl13.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl13.maxriser.ir#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.103.38:10121?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&security=reality&sid=9c2a7d4e5f18b6a3&sni=apple.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.103.37:10121?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&security=reality&sid=9c2a7d4e5f18b6a3&sni=apple.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://932130c7-197b-4b37-af26-d550c47ba8f4@193.233.48.173:443?encryption=none&type=tcp&security=none#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
