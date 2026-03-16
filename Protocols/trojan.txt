@@ -23,7 +23,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://c558328b-eb46-424c-b9e0-574770f0b072@ko9.999864.xyz:443?security=tls&sni=ko9.999864.xyz&alpn=http/1.1&type=ws&host=ko9.999864.xyz&path=/ks4McWjhV7bXNC0BXGtJ&allow_insecure=0#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@ggbnhj.932.pp.ua:443?path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http/1.1&insecure=0&host=ggbnhj.932.pp.ua&type=ws&allowInsecure=0&sni=ggbnhj.932.pp.ua#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@104.17.137.155:443?allowInsecure=1&sni=sg680.pages.dev&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=sg680.pages.dev&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com¬e=@FreeOnlineVPN#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
