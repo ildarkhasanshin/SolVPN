@@ -23,7 +23,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2&host=sni.jpmj.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.100.122:443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&host=yopk.pages.dev&type=ws&sni=yopk.pages.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?path=/&security=tls&insecure=0&host=cm22-bgphhh.pages.dev&type=ws&allowInsecure=0&sni=cm22-bgphhh.pages.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.79.104.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://bpb-trojan@v1.dabache.top:443?allowInsecure=1&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
