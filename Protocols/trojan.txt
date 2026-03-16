@@ -39,7 +39,6 @@ trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.
 trojan://telegram-id-privatevpns@52.29.103.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://BxceQaOe@18.162.51.53:45285?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://telegram-id-privatevpns@15.236.70.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvgt6.0z0.ccwu.cc:443?alpn=http/1.1&host=dcvgt6.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah&security=tls&sni=dcvgt6.0z0.ccwu.cc&type=ws#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿 Join+Telegram:@SolVPN 🇰🇿
 trojan://telegram-id-privatevpns@13.37.204.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@203.69.248.40:14147?allowInsecure=1&sni=snll667.pages.dev&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=snll667.pages.dev&path=%2F#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
@@ -70,7 +69,6 @@ trojan://telegram-id-privatevpns@63.182.150.196:22222?security=tls&alpn=http/1.1
 trojan://BxceQaOe@52.195.220.53:21508?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://BxceQaOe@16.162.45.33:17255?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://telegram-id-privatevpns@52.47.37.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
-trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=028.electrocellco-cf-028.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?allowInsecure=0&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@43.199.159.207:38301?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@13.192.170.234:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
@@ -115,3 +113,4 @@ trojan://BxceQaOe@54.238.89.170:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@95.40.46.74:50446?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://telegram-id-privatevpns@52.58.248.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@13.39.7.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://BxceQaOe@95.40.9.23:18503?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
