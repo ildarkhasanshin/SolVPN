@@ -57,3 +57,4 @@ vless://d1209ffb-c159-48d5-b40d-542ce11fc768@138.124.6.182:10965?flow=xtls-rprx-
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 vless://d895b002-32b9-4b4c-a5f8-3de9eab1c9ef@65.109.188.140:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=Z6QEOugutnMCkDshhYng_x283HVcTcV8nrr4zDxghhI&sid=b0dcc7de8e60bdb2&spx=/#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbEFhTWZTUHYyYzFTeXM5MjV6aldZ@185.212.149.195:55638#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
