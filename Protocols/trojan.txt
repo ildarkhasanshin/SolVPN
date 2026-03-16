@@ -16,6 +16,7 @@ trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@54.46.4.240:38780?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#🇮🇸 Join+Telegram:@SolVPN 🇮🇸
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?path=/&security=tls&insecure=0&host=cm22-bgphhh.pages.dev&type=ws&allowInsecure=0&sni=cm22-bgphhh.pages.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://bpb-trojan@v1.dabache.top:443?allowInsecure=1&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
