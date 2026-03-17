@@ -4,3 +4,4 @@ vless://42a7df85-0739-4760-a248-32a491abfa2a@ltu01-vlr01.tcp-reset-club.net:1244
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 vless://d16200fa-cf1f-4e63-9665-e3e377fd266a@83.166.239.35:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
+vless://a04c351d-3efc-43de-99db-b5188cd04531@93.115.26.56:22230?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&security=reality&sid=a9725715bf4c62ff&sni=deepl.com&type=tcp#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
