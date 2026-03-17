@@ -182,3 +182,4 @@ vless://46eb533d-e25d-4b15-a689-5ec0e834f0b9@nl.katanavpn.ru:443?security=realit
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?type=raw&headerType=none&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://06d70b68-279b-4b2c-b6e3-ca0b20b4e348@90.156.217.229:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=331a8c3fe668c1ee#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&security=reality&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&security=reality&sid=b93d114f6a85e9&sni=max.ru&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
