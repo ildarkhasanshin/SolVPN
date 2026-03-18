@@ -185,3 +185,4 @@ vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&f
 vless://ee248e40-9468-4ef6-81b7-707a1e47c54a@192.200.160.20:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639073677243557970.camry-perma.info&path=/yaeungws&security=tls&sni=639073677243557970.camry-perma.info&type=ws#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://IL37892054@upright-rhino.rooster465.autos:443?allowInsecure=0&sni=upright-rhino.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://IL37892054@apt-magpie.rooster465.autos:443?allowInsecure=0&sni=apt-magpie.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://b10aaf79-0721-454b-9d82-6418413561b8@89.149.243.213:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
