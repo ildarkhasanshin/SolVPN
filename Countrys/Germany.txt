@@ -285,3 +285,6 @@ vless://d1209ffb-c159-48d5-b40d-542ce11fc768@144.31.217.92:10121?encryption=none
 trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@143.20.175.56:389?&security=tls&fp=random&alpn=http/1.1&sni=snippet.danfeng.casacam.net&type=ws&headerType=none&host=snippet.danfeng.casacam.net&path=%2Fdanfeng#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@3.120.82.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9bef38a5-31a7-4e36-af48-01697fae00a2@87.120.216.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=de6.krasivogame.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@89.185.85.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdnv-img.perekrestok.ru&pbk=EdEtwDL3a_V9midkIqik19C3xo7VvefseGkDM5jBWGM&sid=ba34cbf836e99bf6#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
