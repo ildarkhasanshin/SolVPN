@@ -40,7 +40,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://26524cce-d514-4014-a426-365fb266a14d@104.17.152.229:443?&security=tls&fp=random&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=/&security=tls&encryption=none&alpn=http/1.1&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://26524cce-d514-4014-a426-365fb266a14d@31.133.1.8:2053?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://5f1fc730-c184-415c-932b-37c8812c8736@poe.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yor.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=yor.pages.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
