@@ -1447,3 +1447,4 @@ vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.229.97.221:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%253Fed%253D2560%2526Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@76.223.33.155:443?&security=tls&fp=chrome&alpn=http/1.1&sni=chinam.sylu.net&type=ws&headerType=none&host=chinam.sylu.net&path=/danfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=%2Fray#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=zgtwylnhh.cc.cd&path=🇨🇳&sni=zgtwylnhh.cc.cd&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
