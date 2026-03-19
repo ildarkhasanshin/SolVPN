@@ -97,3 +97,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IEpvaW4rVGVsZWdyYW06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@165.232.108.151:2053?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.danfeng.casacam.net&type=ws&headerType=none&host=snippet.danfeng.casacam.net&path=/danfeng#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.132.248.78:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://35b9becb-2488-447c-ad69-e839f2fc13c1@45.89.111.63:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&sid=3ef8cdbc#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
