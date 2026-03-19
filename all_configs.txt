@@ -2166,3 +2166,4 @@ vless://35b9becb-2488-447c-ad69-e839f2fc13c1@92.118.234.151:443?encryption=none&
 vless://9b73c904-e704-4537-ab1a-6aadfc5c535e@g-api1.maps-yandex.net:10120?encryption=none&fp=chrome&pbk=TWTC9ME2USNv_Vug-fJ-jeh0NxiLJ7IN9jjJN_3UylY&security=reality&serviceName=api&sid=0d6151ea50972a17&sni=apple.com&type=grpc#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 trojan://telegram-id-privatevpns@3.124.155.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@35.181.123.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
