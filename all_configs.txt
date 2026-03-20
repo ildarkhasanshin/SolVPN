@@ -330,7 +330,7 @@ ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Join+Tele
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&host=yopk.pages.dev&type=ws&sni=yopk.pages.dev#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.142.230.253:587?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://bpb-trojan@v1.dabache.top:443?type=ws&host=mashdt.pages.dev&path=%2Ftr&security=tls&sni=mashdt.pages.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.137.202:8443?encryption=none&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.v6.navy#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.4.187:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🎖@alixtso#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
@@ -2201,3 +2201,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@143.14.22.98:8443?&security=tls&fp=
 vless://aa167bb9-4882-417e-a9d1-676250111f70@md-kiv-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&security=reality&sid=3c2f8f52&sni=md-kiv-2.blook.network&type=tcp#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vmess://eyJhZGQiOiJjZzFkMDUud2FpbWFvamQuY29tIiwiYWlkIjowLCJob3N0IjoiY2cxZDA1LndhaW1hb2pkLmNvbSIsImlkIjoiNmFiZTNhYzgtZTFmOC00YjI0LWJiNjctMTkxYmMyM2I1ZmFiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJjZzFkMDUud2FpbWFvamQuY29tIn0=
+trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=0#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
