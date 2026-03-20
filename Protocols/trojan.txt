@@ -134,3 +134,4 @@ trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=0#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@54.95.208.150:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://telegram-id-privatevpns@3.123.214.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
