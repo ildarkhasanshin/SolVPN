@@ -409,3 +409,4 @@ trojan://BxceQaOe@54.95.208.150:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 vless://4e607c90-e3cf-4e02-9d3e-5aa5a5567f71@usap01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sni=www.icloud.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c6690e9f-95e2-42ff-dae2-39616aedf451@107.174.155.79:2052?&type=ws&headerType=none&path=%2Fvideo#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.3.251.89:443?&security=tls&fp=random&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?&fp=chrome&type=ws&headerType=none&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
