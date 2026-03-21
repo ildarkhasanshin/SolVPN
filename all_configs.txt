@@ -200,7 +200,7 @@ trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#🇺🇦 Join+Telegram:@SolVPN 🇺🇦
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&insecure=0&host=028.electrocellco-cf-028.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRU5fTDZtc0w4cm11U1B5d1I0TTBxTV8xX3R4WjhENQ@45.95.233.133:8388#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?path=/?ed=2560&Telegram🎖@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
