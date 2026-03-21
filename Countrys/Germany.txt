@@ -298,3 +298,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.85.76:8443?allowInsecure=1&en
 vless://e928d85d-f223-03e8-a1d2-a56e9fbd50e0@109.120.189.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=ads.x5.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@3.123.214.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://52b625f4-0a52-4c7b-a907-c4dd4eeb3047@151.247.228.252:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3EuP8uX9rTJ-qw6O1hg2KWgD1fbY73-ZfT1Q8I_Srkw&security=reality&sid=693ee677b7bc4ad1&sni=de-1.124515.xyz&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+trojan://telegram-id-privatevpns@18.159.140.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
