@@ -104,3 +104,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06
 trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=0#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTEyOC1nY206ZDcyNzgxZGEtM2VhOC00ZDdmLTliY2EtYzA0ZWQ0MTA0NDNi@106.75.162.7:50000#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vless://217e8d75-528f-4198-8217-ae2885ac9dba@185.132.125.20:9873?encryption=none&security=none&type=tcp#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://BxceQaOe@58.152.18.28:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://86e150eb21c6faee48e81d496d7f61c2@43.207.232.176:921?allowInsecure=0&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
