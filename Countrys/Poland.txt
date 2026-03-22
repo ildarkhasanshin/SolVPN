@@ -67,3 +67,5 @@ vless://52b625f4-0a52-4c7b-a907-c4dd4eeb3047@pl-1.124515.xyz:443?encryption=none
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=0#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@138.124.104.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=e043995937&sni=pol2.frostbot.ru&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://35b9becb-2488-447c-ad69-e839f2fc13c1@95.85.253.87:443?encryption=none&fp=chrome&pbk=G1QPj-IQQVssEsfjld6gGOlxhgXDYdg56cYdweymLy0&security=reality&sid=3ef8cdbc&sni=eh.vk.com&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@90.156.254.74:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
