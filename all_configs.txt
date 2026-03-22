@@ -1071,7 +1071,7 @@ vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?&fp=chrome&
 trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@203.69.248.40:14147?allowInsecure=1&sni=snll667.pages.dev&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=snll667.pages.dev&path=%2F#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 vless://c0d4ebce-a832-4fe6-94b3-de3ba1203de0@77.91.74.84:44148?security=reality&encryption=none&pbk=03p9kJxTSoiEEQXtQPtCfPijrPFjRH2pMaMLQbrusiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=fb1e6bf864b50297#🇬🇪 Join+Telegram:@SolVPN 🇬🇪
 vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@109.120.190.78:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&spx=/#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=%2F&security=tls&encryption=none&insecure=1&host=rukawa.pages.dev&type=ws&allowInsecure=1&sni=rukawa.pages.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://26524cce-d514-4014-a426-365fb266a14d@platform.wise.com:2053?&security=tls&fp=chrome&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -2266,3 +2266,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.11.0:443#🇬�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@169.150.242.77:990#🇭🇷 Join+Telegram:@SolVPN 🇭🇷
 trojan://IL37892054@steady-lemming.rooster465.autos:443?allowInsecure=0&sni=steady-lemming.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 trojan://telegram-id-privatevpns@35.181.46.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/@OnNetVpn&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fcee895881.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fcee895881.workers.dev#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
