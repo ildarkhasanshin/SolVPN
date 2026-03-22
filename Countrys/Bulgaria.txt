@@ -7,3 +7,4 @@ vless://42a7df85-0739-4760-a248-32a491abfa2a@bgr01-vlr01.tcp-reset-club.net:1544
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWMiLCJhZGQiOiJjbjAyLjM2NWNsb3VkNTg3OC5jb20iLCJwb3J0IjoiNjA1MCIsInR5cGUiOiJub25lIiwiaWQiOiI5ZjFlY2ZjYS0xM2E5LTQ4OGQtYWM4NC1hYWViNzNhOGQ1NzQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiY24wMi4zNjVjbG91ZDU4NzguY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Sjc1NGVlNklUanlmRHlzaTc4dXFK@194.68.225.52:65232#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
+vless://f7bae22e-20ab-11f1-835c-0242ac110002@bg1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=mjyodFglgnFdQFt4F-b1-ckI9y5f1h9IpI5lSiOwdRQ&security=reality&sid=5bfa0c&sni=bg1.cyphervpn.pro&type=tcp#🇧🇬 Join+Telegram:@SolVPN 🇧🇬
