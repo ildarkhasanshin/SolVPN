@@ -17,7 +17,6 @@ trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcor
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
-trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@cf.877774.xyz:443?allowInsecure=1&sni=snll667.pages.dev&alpn=h3%252Ch2%252Chttp%252F1.1&type=ws&host=snll667.pages.dev&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://c52d2de2-fc6d-490c-8421-132f87615736@bgty6.852224.xyz:443?security=tls&sni=bgty6.852224.xyz&alpn=http/1.1&type=ws&host=bgty6.852224.xyz&path=/PDbJ6Qn4xImwtg6PusRbe#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nnggf.66x.ccwu.cc:443?security=tls&sni=nnggf.66x.ccwu.cc&alpn=http/1.1&type=ws&host=nnggf.66x.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
@@ -150,3 +149,4 @@ trojan://3ac6a6ca99f74941b1eaf892818e2ddb@194.33.45.157:443?allowInsecure=1#🇺
 trojan://telegram-id-privatevpns@3.120.169.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://IL37892054@steady-lemming.rooster465.autos:443?allowInsecure=0&sni=steady-lemming.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 trojan://telegram-id-privatevpns@35.181.46.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://telegram-id-privatevpns@15.236.16.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
