@@ -306,3 +306,4 @@ vless://d70415c7-b3fb-43e9-915a-df66b2274c32@e2.aurorix.net:25930?type=tcp&secur
 vless://a1afced8-420b-430d-b25a-08db1c3332da@144.31.238.232:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2IOXPZdkxdHts0gzVYWjAWTjuM1-OuPFGgHeFMVvNwY&security=reality&sid=3aee9bf2757b2d1f&sni=www.apple.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://b9662467-171c-4afc-8fac-dabf62fc47cc@64.188.106.173:2443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&pbk=EeM87Tb64-rdyOYJmKlx3OqxVXCLHIJvGGuDrc-In1k&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=www.microsoft.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.177.162.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://YWVzLTI1Ni1nY206ZjM2NTIwYWEtYTNkYy00MTQ0LWJlZjktY2ZkNGEzMTBmMmYz@45.136.31.53:7013#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
