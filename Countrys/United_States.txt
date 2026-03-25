@@ -422,3 +422,4 @@ trojan://BxceQaOe@13.192.204.27:23255?allowInsecure=1&sni=t.me%2Fripaojiedian#�
 vless://ae0e984d-423e-4d80-8c0e-1d127340b3b9@150.241.203.76:11846?encryption=none&fp=chrome&pbk=e0Ab0q-jsGRsEclV-tUUoNM3-g79sWQqSL4k7UYft3w&security=reality&sid=49&sni=www.google.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://c01733dd-3e58-4da9-910b-cdd4560295bc@80.209.241.190:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IRv8qDf76Ix5WouZ-mznx7AZbGSM8JdyTuZy3UB19AE&security=reality&sid=a1b2c3d4&sni=www.tradingview.com&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:3700?allowInsecure=0&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://YWVzLTI1Ni1nY206NjUwMjUzNjktNzIwYi00NzkyLTlmN2UtMTYzYjAzNzJhNGFk@107.172.20.55:7002#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
