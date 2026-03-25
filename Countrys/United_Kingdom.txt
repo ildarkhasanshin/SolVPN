@@ -106,3 +106,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.11.157.34:443#🇬�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.142.122.175:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://ad51da8f-c04c-4843-afaa-295accf942e3@185.116.214.253:443?encryption=none&fp=chrome&pbk=upQDBPxUldlllbz4A_Zp4YAHM_sIkyQxIbQvRryKm1s&security=reality&sid=86&sni=www.google.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://a1056081-76c5-4185-a16d-da6657e088d0@82.41.181.60:443?encryption=none&fp=chrome&pbk=R8DxeKsBWjG5_roszdd2bT_jW5Lq5WyBKSKuoQjvcAE&security=reality&sid=c0&sni=www.google.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
