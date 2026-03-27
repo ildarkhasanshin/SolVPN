@@ -1,5 +1,5 @@
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?type=ws&security=tls&path=/trojan-ws&host=xo.e0f.cx&sni=xo.e0f.cx&allowInsecure=1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Btype=ws&%3Bsni=www.gossipglove.com#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
 trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
@@ -90,7 +90,7 @@ trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&alpn=http/1.1&
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.2:443?allowInsecure=0&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@58.152.25.253:443?sni=t.me/ripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?security=tls&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=8443.golden-cards.me#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Join+Telegram:@SolVPN 🇱🇹
 trojan://telegram-id-privatevpns@63.183.124.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443?security=tls&type=ws&sni=hl-freedom-2.undef.network&path=/f2fc2a1f&host=hl-freedom-2.undef.network#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&sni=ads.x5.ru#🇦🇱 Join+Telegram:@SolVPN 🇦🇱
@@ -165,3 +165,4 @@ trojan://WF42809561@model-stingray.crayfish192.xyz:443?security=tls&sni=model-st
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&sni=touching-pigeon.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls&sni=evolving-kangaroo.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
