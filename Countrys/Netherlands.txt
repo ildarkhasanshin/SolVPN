@@ -218,3 +218,5 @@ vless://d08a63e7-dbea-4a36-a239-9f0b37a46b40@95.85.248.95:853?encryption=none&fl
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&sni=touching-pigeon.rooster465.autos#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://bf263367-bb63-4663-b4a1-34946107a72e@45.144.49.116:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&sid=b2a1c97a38&sni=www.apple.com&spx=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://WF42809561@fun-seagull.rooster465.autos:443?allowInsecure=0#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
