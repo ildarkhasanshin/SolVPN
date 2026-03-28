@@ -33,7 +33,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/&security=tl
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.62.25.163:443?path=/?ed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=/XIXVPN?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://00000000-0000-4000-8000-000000000000@88.218.0.184:8085?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://2a8391ef-383c-4321-ac25-89b50973ab73@217.154.38.156:443?type=tcp&security=reality&pbk=kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w&fp=chrome&sni=yahoo.com&sid=2e0f&spx=/#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
