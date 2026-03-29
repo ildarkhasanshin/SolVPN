@@ -390,7 +390,7 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.233.211.233:443?&security=tls&f
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@15.204.87.159:449?&security=tls&fp=random&alpn=http/1.1&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@76.223.33.155:443?&security=tls&fp=random&alpn=http/1.1&sni=chinam.sylu.net&type=ws&headerType=none&host=chinam.sylu.net&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@3.86.85.68:443?&security=tls&fp=random&alpn=http/1.1&sni=chinam.sylu.net&type=ws&headerType=none&host=chinam.sylu.net&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptSmVaUjFRTVN6cEVhT0h2U2g5VzNp@104.192.227.163:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTmpSOGVmN0xFRGQzamVYZEU2UGtk@104.192.227.164:443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://b5be8e3f-a17d-479c-ebdb-9c3265c2cab7@usadt01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&security=reality&sni=www.speedtest.org&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@76.223.33.155:443?&security=tls&fp=chrome&alpn=http/1.1&sni=chinam.sylu.net&type=ws&headerType=none&host=chinam.sylu.net&path=/danfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=zgtwylnhh.cc.cd&path=🇨🇳&sni=zgtwylnhh.cc.cd&fp=chrome#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
