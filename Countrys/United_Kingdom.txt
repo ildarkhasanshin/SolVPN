@@ -28,7 +28,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.87:8443?&security=tls&sn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.22:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://00000000-0000-4000-8000-000000000000@88.218.0.184:8085?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.62.25.163:443?path=/?ed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://00000000-0000-4000-8000-000000000000@88.218.0.184:8085?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
