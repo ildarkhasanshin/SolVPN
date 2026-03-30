@@ -110,3 +110,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.105.34.187:443#🇬
 vless://4dde0df3-aa67-417c-882e-28beb3886961@pol.pinkweb.one:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WfCGASxNxAvNzJZH6Onu5HB2Nup4ZHB_Lpyru_1aqWA&security=reality&sid=fbb0342cef1b13ea&sni=pol.pinkweb.one&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.132.235.17:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.108.124:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
