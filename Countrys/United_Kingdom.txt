@@ -111,3 +111,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.132.235.17:443#🇬
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.108.124:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmMyY2U1Ny1hZWQzLTRmOGEtOWJhNy00ZWNiM2EyZjlmYTE@45.149.92.35:36521#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.186.36:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
