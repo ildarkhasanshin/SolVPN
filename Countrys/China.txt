@@ -90,7 +90,7 @@ vless://ca71b2ed-ac4d-448d-9a12-0e99aad24049@merlinty.site:8443?type=tcp&securit
 trojan://BxceQaOe@95.40.57.225:1850?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vmess://eyJhZGQiOiIxMDMuMTQzLjIzOC4xOTYiLCJhaWQiOjAsImhvc3QiOiJ3d3cuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjFlMWE2YjNiLTE0YjItNGFlNC05YWE5LTg4MGJhNWRmZjZmYSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzcyIsInBvcnQiOjIxODc5LCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 trojan://BxceQaOe@58.152.18.123:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=%2Fray#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=/ray#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiJjbjAxLjM2NWNsb3VkODc1NC5jb20iLCJwb3J0IjoiNjAwMSIsInR5cGUiOiJub25lIiwiaWQiOiJkYjc1YmM5Mi00ZTMyLTQ4ZGQtYjc5Mi1kN2E4YjcwNzYyNmMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiY24wMS4zNjVjbG91ZDg3NTQuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTEyOC1nY206ZDcyNzgxZGEtM2VhOC00ZDdmLTliY2EtYzA0ZWQ0MTA0NDNi@106.75.162.7:50000#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
