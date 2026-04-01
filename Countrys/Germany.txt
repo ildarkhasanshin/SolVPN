@@ -315,3 +315,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMDJYOXA5Q3FuM0ljNGw2UHlKTUY4@185.223.82.82:
 trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?sni=fra4.chasem2026sud.com&allowInsecure=1&type=tcp&fp=chrome#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://43e322c8-e044-4625-a560-9bfec45e0eae@37.221.125.16:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=yandex.net&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://9d692b1d-7f37-4b75-a1cf-d3adc49e4bca@5.231.223.111:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fMmpLjwaUJ2dDcw_bNq-LtVr_xAGwPpTFxGXwsVMEn4&security=reality&sid=6e5e01d600780c6c&sni=images.apple.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
