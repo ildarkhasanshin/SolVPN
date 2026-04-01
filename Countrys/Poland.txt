@@ -77,3 +77,4 @@ trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshaw
 vless://f25eb463-e242-4fa9-b174-c305af3ab95e@kinopl20.dramatorg.net:443?allowInsecure=1&sni=kinopl20.dramatorg.net&security=tls#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@144.31.1.133:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@in-pl-hn.ray-proxy.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
+vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@pol-x1.plugvpn.ru:443?encryption=none&security=none&serviceName=pol-x1.plugvpn.ru&type=grpc#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
