@@ -115,3 +115,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmMyY2U1Ny1hZWQzLTRmOGEtOWJhNy00ZWNiM2EyZjl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.186.36:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://88af3d08-d5e1-4148-89a7-5201146c10a5@107.181.134.184:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.11.138.9:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@188.114.98.0:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639075478000711639.civic-perma.info&path=/cahttingws&security=tls&sni=639075478000711639.civic-perma.info&type=ws#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
