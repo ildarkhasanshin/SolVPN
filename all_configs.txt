@@ -2215,7 +2215,6 @@ trojan://24900_tc0b8476d@los7.ee2.in:33741?allowInsecure=0&sni=los7.cnedu2.com#�
 trojan://14326_tf497f7b0@kto1.ttddd.xyz:443?allowInsecure=0&sni=kto1.cnedu2.com#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@109.120.180.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=yandex.ru&type=tcp¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://28a6ce90-7fd8-4aff-99b1-726083fcd5dc@138.124.32.50:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q&security=reality&sid=0ec0e06a8bb19bc1&sni=use.typekit.net&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=plcdn6.dramatorg.net#🇵🇱 Join+Telegram:@SolVPN 🇵🇱
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:1524?security=tls&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
