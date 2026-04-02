@@ -223,3 +223,6 @@ vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@45.90.116.22:443?encryption=none&fl
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://cec4d434-0578-483e-a5cb-d6a11ea67e27@95.85.248.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=odxN6TcYRwMQR27l_RA_6NOnRTuoeP_A7GphX5J5CSQ&security=reality&sid=ae40ad2fdcdb2176&sni=www.oracle.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.77.162:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8iEloJudtgXA0pTiSgFnq0quKAVHjnqm9r3TClydlCM&security=reality&sid=0bffe935818e6964&sni=sun6-21.userapi.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@nl10.404-it.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VFzQg-tlMPhO7wBJNQJD8M82zPxnCTy_Y2oHWgsFbzQ&security=reality&sid=10402c47a7e61563&sni=www.google.com&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
