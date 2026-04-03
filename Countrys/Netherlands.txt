@@ -133,7 +133,6 @@ vmess://eyJhZGQiOiJIYW5sby5mYXN0ZS1zZXJ2LmNvbSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQi
 trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@cdn123.global.ssl.fastly.net:443?path=/site&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn123.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=cdn123.global.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.105.40:443?path=/?ed=2560&Telegram🇨🇳 @app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c@91.242.229.129:4443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=nl18.fastlanehosting.ru&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://de73ea62-68e4-45e2-8cc3-87c6d4b23aa0@141.11.21.219:53458?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=a.sezar.top#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
