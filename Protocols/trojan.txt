@@ -205,3 +205,4 @@ trojan://telegram-id-privatevpns@13.39.95.237:22222?security=tls&alpn=http/1.1&h
 trojan://366efee9-09fd-4365-8873-63f77468999c@f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl:55021?allowInsecure=0#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.201:18390?security=tls&fp=chrome&type=tcp&sni=osl7.solidly.click#🇳🇴 Join+Telegram:@SolVPN 🇳🇴
 trojan://telegram-id-privatevpns@13.38.154.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 Join+Telegram:@SolVPN 🇫🇷
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.225:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
