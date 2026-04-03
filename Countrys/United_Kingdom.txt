@@ -120,3 +120,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IEpvaW4rVGVsZWdyYW06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.49.193.125:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-uk01.gw-vpn.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=j5sQbSLF4SeU7XHU27W56ZuveT-O6HwxX2wi5neM4UM&security=reality&sid=abcdef00&sni=plus.im&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://a91b9d7f-eca5-43a5-9524-2201817225d6@45.140.167.229:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4UNvbZjAgdHgE666FNCcYos7-9CyJG0vgCdDKmg6uFw&security=reality&sid=4ab2d871&sni=google.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@89.208.85.198:8388#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
