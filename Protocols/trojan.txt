@@ -16,6 +16,8 @@ trojan://BxceQaOe@54.46.4.240:38780?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#🇮🇸 Join+Telegram:@SolVPN 🇮🇸
 trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://humanity@v1.dabache.top:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇸🇪 Join+Telegram:@SolVPN 🇸🇪
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#🇫🇮 Join+Telegram:@SolVPN 🇫🇮
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
