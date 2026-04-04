@@ -61,7 +61,7 @@ vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.187.251:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sant.atira-40.workers.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.156.229:443?encryption=none&security=tls&sni=sss.yaml7.ggff.net&type=ws&host=sss.yaml7.ggff.net&path=%2F%3Fed%3D2048#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403?security=none&type=tcp&encryption=none#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@95.40.88.242:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
