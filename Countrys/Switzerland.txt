@@ -24,6 +24,6 @@ vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@cz.scroogethebest.com:443?type=tcp&
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@94.131.12.15:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.ndjp.net&type=ws&headerType=none&host=snippet.fgfw.ndjp.net&path=%2Fdanfeng#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ch.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=ch.fasti.win&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@95.85.239.225:8388#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.225:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://43488128-319e-f480-64ea-0acdc712e2a8@45.82.254.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pBuXpWQ1Owy-fOEJZPUzYd-8xBsJB_1S05sLp_YMwzE&security=reality&sid=4929ddcb86e785f7&sni=www.booking.com&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.239.4:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🇨🇭 Join+Telegram:@SolVPN 🇨🇭
