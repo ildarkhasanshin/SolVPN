@@ -37,7 +37,6 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#🇬�
 ss://YWVzLTI1Ni1nY206MGdyTHFLdkRUMzdxeWo1NGQ5UXhSbzFTS0lRTmF6Q3B4cEVDdDdzSElxND0@51.195.203.247:8443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.161.217:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96%40alixtso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.17.173:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&sni=uk-1.fishchipsexpress.com#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?&security=tls&fp=chrome&sni=bank.alaska-tigr.info&type=ws&headerType=none&host=bank.alaska-tigr.info&path=%2Flove#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
@@ -125,3 +124,4 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&f
 vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://43488128-319e-f480-64ea-0acdc712e2a8@95.179.236.230:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=98c3d62ba1c26863&sni=www.argos.co.uk&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@89.185.84.128:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@40.120.51.156:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
