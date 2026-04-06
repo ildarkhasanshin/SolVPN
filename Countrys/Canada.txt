@@ -102,6 +102,7 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.36:7443?encryption=none
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.58.46.132:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.98.207.58:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@107.174.36.103:443?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.63.168.172:39738?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.63.168.172:39738?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=/danfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.98.207.58:443?encryption=none&security=tls&sni=snippet.fgfw.indevs.in&type=ws&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
