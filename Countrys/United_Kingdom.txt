@@ -128,3 +128,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.11.150.169:443#🇬
 vless://197a0c0a-574d-497a-9e44-7bec185f8662@uk3.magnetgateway.onnstreaming.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fRAFdTeG4k77FPctArX1_6Af-HKEC1Spf62ghQdaNVc&security=reality&sid=b5dea479d01202bc&sni=uk3.magnetgateway.onnstreaming.ru&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@45.43.75.69:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.253.194:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.11.138.154:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
