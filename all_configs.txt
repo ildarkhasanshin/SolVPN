@@ -1409,7 +1409,7 @@ trojan://BxceQaOe@57.180.10.241:4945?allowInsecure=1&sni=t.me%252Fripaojiedian#�
 trojan://BxceQaOe@3.112.236.46:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.130.21:4019?sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://187dda4498be9ac4f28db939d5940185@160.16.85.33:4019?allowInsecure=0&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://BxceQaOe@43.198.86.230:2960?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://f6c7016b-6f94-4a32-975c-013f2494d312@uk2.miyazono-kaori.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&security=reality&sid=20&sni=www.bp.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
@@ -2638,3 +2638,5 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.22:7443?allowInsecure=1
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.180.101.136:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🇷🇸 Join+Telegram:@SolVPN 🇷🇸
 vless://27d0c642-693c-4070-83b4-0e9803ba71b3@144.31.94.4:42428?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ccICtTNR2BXmdCzazGcyci16c7O1kJIv6ugDM6xY2XY&security=reality&sid=24adcebe&sni=eh.vk.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://09b81314-7592-4ffb-9773-6351de8a7f74@85.92.111.163:2083?encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=ir.ozone.ru&type=grpc#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+trojan://e4895ea3-7b4a-3f46-ba5a-44ac4a691635@fbxt0765gh0pielsss.ftisthebest.com:56251?allowInsecure=0&sni=fbxt0765gh0pielsss.ftisthebest.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:29370?allowInsecure=0&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
