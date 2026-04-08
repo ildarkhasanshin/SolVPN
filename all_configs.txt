@@ -2641,3 +2641,8 @@ vless://09b81314-7592-4ffb-9773-6351de8a7f74@85.92.111.163:2083?encryption=none&
 trojan://e4895ea3-7b4a-3f46-ba5a-44ac4a691635@fbxt0765gh0pielsss.ftisthebest.com:56251?allowInsecure=0&sni=fbxt0765gh0pielsss.ftisthebest.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:29370?allowInsecure=0&sni=www.nintendogames.net#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://f374a660-2dc5-11f1-9ec5-baabcd4be2cd@104.194.158.108:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://YWVzLTEyOC1nY206YzFlOTMxNDItZDA5Mi00YmM2LTg3MjMtMDM1MmFlNmIxZDc0@45.149.92.75:10920#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDIxODMyZC05OTY0LTQ1MTktYjRiMy1lNTJhN2JlOGIzMWI@74.226.153.111:35607#🇱🇺 Join+Telegram:@SolVPN 🇱🇺
+ss://YWVzLTEyOC1nY206YzFlOTMxNDItZDA5Mi00YmM2LTg3MjMtMDM1MmFlNmIxZDc0@45.149.92.75:10917#🇵🇭 Join+Telegram:@SolVPN 🇵🇭
+ss://YWVzLTEyOC1nY206YzFlOTMxNDItZDA5Mi00YmM2LTg3MjMtMDM1MmFlNmIxZDc0@45.149.92.75:10934#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://YWVzLTEyOC1nY206YzFlOTMxNDItZDA5Mi00YmM2LTg3MjMtMDM1MmFlNmIxZDc0@45.149.92.75:10912#🇹🇷 Join+Telegram:@SolVPN 🇹🇷
