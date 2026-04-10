@@ -106,3 +106,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06
 ss://YWVzLTEyOC1nY206YzFlOTMxNDItZDA5Mi00YmM2LTg3MjMtMDM1MmFlNmIxZDc0@45.149.92.75:10934#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDIxODMyZC05OTY0LTQ1MTktYjRiMy1lNTJhN2JlOGIzMWI@74.226.153.111:35608#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@xinjiapo1.zqjsqapi.com:443?encryption=none&security=tls&sni=xinjiapo1.zqjsqapi.com&type=ws&host=xinjiapo1.zqjsqapi.com&path=%2Fproxy#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:5784?allowInsecure=0&sni=www.baidu.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
