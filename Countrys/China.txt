@@ -103,3 +103,4 @@ vmess://eyJhZGQiOiI0NS4xOTIuMTAxLjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://443d07a7-205c-4191-9a25-86494e1b18fe@video.livecuts.cc:443?&security=tls&sni=video.livecuts.cc&type=ws&headerType=none&host=video.livecuts.cc&path=%2Fvideo#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://187dda4498be9ac4f28db939d5940185@16.162.102.101:52687?allowInsecure=0&sni=www.nintendogames.net#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTEyOC1nY206YzFlOTMxNDItZDA5Mi00YmM2LTg3MjMtMDM1MmFlNmIxZDc0@45.149.92.75:10920#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:13388?security=tls&sni=www.baidu.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
