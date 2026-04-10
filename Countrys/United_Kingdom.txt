@@ -130,3 +130,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.253.194:443#🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.11.138.154:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://41d83017-1046-4c18-ac73-8da91abee5ea@62.100.205.218:443?encryption=none&fp=chrome&pbk=xP3qEPqbQ-IZnU7sCnQHyYwPF3q1GXafGkOWf65JBkQ&security=reality&sid=ab&sni=www.google.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.105.33.225:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://5b77fb18-cece-4759-9a81-571f1be53e0c@gbr1.frostbot.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&security=reality&sid=b9605803fb4b&sni=gbr1.frostbot.ru&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
