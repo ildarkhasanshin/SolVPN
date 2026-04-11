@@ -342,3 +342,5 @@ vmess://eyJhZGQiOiJiYXNlLWNkbi5pZ2V0bWFjLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6
 vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-27.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@52.58.102.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@63.180.162.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://1e45a266-9a04-47af-b703-e53a67373cc9@45.86.70.95:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zQ3SBKNWRtAsrnU-Y2XiSEHodF_sgZ3UsKNfmIwRbjI&security=reality&sid=9ff26c38f9b488&sni=max.ru&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?allowInsecure=1&alpn=http/1.1,h2&encryption=none&security=tls&serviceName=grpc&sni=nice.ducks.tel&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
