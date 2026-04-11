@@ -4,7 +4,7 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&ho
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?security=tls&sni=www.nintendogames.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
-trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?allowInsecure=1&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&path=%2F&security=tls&sni=broad-sky-9360.k7uztejf9ief.workers.dev&type=ws#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.208.191:2096?&security=tls&fp=chrome&sni=sni.my111000.tech&type=ws&headerType=none&host=sni.my111000.tech&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
