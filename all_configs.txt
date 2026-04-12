@@ -847,7 +847,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.97.88.133:443?&security=tls&sni
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8@sahand.cocomelon.org:443?security=reality&encryption=none&pbk=1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finance.yahoo.com&sid=dd8ca121bb77dad9#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
-trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 vless://ec044d62-375a-4d6e-a112-817adb99dfb5@Vps.bkneed.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=Kilerjxi.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
