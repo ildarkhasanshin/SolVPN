@@ -439,3 +439,4 @@ vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@18.166.176.167:11515#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@16.163.143.173:18008#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://340dee85-bfd7-4395-8d2e-87dbc2781a13@104.19.58.118:443?&security=tls&sni=us1-us1.aiopen.sbs&type=ws&headerType=none&host=us1-us1.aiopen.sbs&path=%2Fkbjc%2Fus1#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@16.162.120.14:33144#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
