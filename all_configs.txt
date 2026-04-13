@@ -2772,3 +2772,4 @@ vless://0bc2218a-4449-45a4-844a-29826d3296a9@87.252.237.249:443?encryption=none&
 vless://1b7df973-95d0-4d25-841a-954cd5375695@87.251.69.48:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&sid=f5e89824&sni=sun6-22.userapi.com&spx=/#🇦🇹 Join+Telegram:@SolVPN 🇦🇹
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@n08.zqwerty.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.226.163.224:2053?&security=tls&fp=chrome&sni=3-deu.pages.dev&type=ws&headerType=none&host=3-deu.pages.dev&path=%2F#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@1.161.245.168:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
