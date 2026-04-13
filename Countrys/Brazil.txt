@@ -9,3 +9,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?security=realit
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.58.38.87:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@shenbaoluo1.zqjsqapi.com:443?type=ws&encryption=none&host=shenbaoluo1.zqjsqapi.com&path=/proxy&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=shenbaoluo1.zqjsqapi.com#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.226.163.224:2053?&security=tls&fp=chrome&sni=3-deu.pages.dev&type=ws&headerType=none&host=3-deu.pages.dev&path=%2F#🇧🇷 Join+Telegram:@SolVPN 🇧🇷
