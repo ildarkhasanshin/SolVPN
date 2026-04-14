@@ -108,3 +108,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDIxODMyZC05OTY0LTQ1MTktYjRiMy1lNTJhN2JlOGI
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@xinjiapo1.zqjsqapi.com:443?encryption=none&security=tls&sni=xinjiapo1.zqjsqapi.com&type=ws&host=xinjiapo1.zqjsqapi.com&path=%2Fproxy#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:5784?allowInsecure=0&sni=www.baidu.com#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@54.46.106.105:33229#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJhZGQiOiJ4ZzFjNC53YWltYW9mdXd1amQuY2MiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjFhODdmYzgxLTY4NDYtNDI0Ni1hZGQzLTAwYTM4YmFhOGMwZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJob3N0IjoieGcxYzQud2FpbWFvZnV3dWpkLmNjIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
