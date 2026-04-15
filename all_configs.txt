@@ -523,7 +523,7 @@ vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@nl02-vlr01.tcp-reset-club.net:443?t
 vmess://eyJhZGQiOiIyMDkuNTQuMTA0LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwZTM2MDZhZS0zMjFhLTRkMGItODVlYy01ZjQzNTJmNGJjMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzOTY2IiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#🇲🇽 Join+Telegram:@SolVPN 🇲🇽
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=/&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://trojan@54.46.72.234:8025?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
