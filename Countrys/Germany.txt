@@ -360,3 +360,5 @@ vless://913c6074-a747-492b-a7e9-5abfcad6369d@gr.milas.click:443?encryption=none&
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@64.188.83.19:443?encryption=none&fp=chrome&pbk=LwP6wU-_noj6mjituSmH8ZLNr54499NTDneUEEXPcAs&security=reality&serviceName=GrpcFuckRKN&sni=www.microsoft.com&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@51.102.234.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.136:25565?encryption=none&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&security=reality&sni=hypixel.net&type=grpc#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://0388ef39-0883-4fb0-a93c-429da8cb45ab@82.165.179.153:443?encryption=none&fp=chrome&pbk=hF-EJNBXVYkS6mPSRRhLfgkuKxdciknzzx6q9smc0lg&security=reality&sid=ab&sni=www.google.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://337582a5-3705-11f1-953f-dc08fb041e0d@de2.gosocial.today:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A7rUZxACVEZDLxE5yl0bwplc6HMl2XBDasR9X8hy-CA&security=reality&sid=c8855701&sni=de2.gosocial.today&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
