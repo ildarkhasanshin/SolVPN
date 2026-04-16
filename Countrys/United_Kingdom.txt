@@ -141,3 +141,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.21.39:443#🇬�
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ@62.112.221.77:10014#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@40.120.41.82:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
+vless://1b3bd2c4-1ba7-46ff-8955-f4d2f2060bb4@150.241.92.184:6666?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8SGbtJmuUOtGJ6CPKJngqRX8oZt7i-jNo7Mzy8VlZn4&security=reality&sid=abcd1234&sni=www.google.com&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
