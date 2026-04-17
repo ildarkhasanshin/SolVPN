@@ -2857,3 +2857,4 @@ vless://caa3af29-3b04-4099-9772-c64a1b7cca34@195.66.27.165:7443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
