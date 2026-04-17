@@ -130,6 +130,7 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.135:5443?encryption=none
 vmess://eyJhZGQiOiJIYW5sby5mYXN0ZS1zZXJ2LmNvbSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMzE4YTk0ZS0zYTI0LTQzMGYtYTk2ZS0xYWVjMDg4YjRlZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Nzk4MywicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@cdn123.global.ssl.fastly.net:443?path=/site&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn123.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=cdn123.global.ssl.fastly.net#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
+trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c@91.242.229.129:4443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=nl18.fastlanehosting.ru&type=tcp#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 vless://de73ea62-68e4-45e2-8cc3-87c6d4b23aa0@141.11.21.219:53458?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=a.sezar.top#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
