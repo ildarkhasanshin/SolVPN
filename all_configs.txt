@@ -2851,3 +2851,4 @@ trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&alpn=http/1.1&inse
 trojan://BxceQaOe@57.180.60.151:3357?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@20.117.140.169:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 trojan://telegram-id-privatevpns@3.65.161.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://72eb4de8-5eca-420d-8876-173ef58d82e8@92.119.166.90:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
