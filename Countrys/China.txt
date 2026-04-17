@@ -110,3 +110,5 @@ ss://YWVzLTI1Ni1nY206OTk4NDA5ODEtZDE1Ny0zNDM3LWI1YTItYjJmOGI2NzE2MWZm@120.232.22
 trojan://BxceQaOe@18.183.212.72:39507?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://BxceQaOe@16.163.106.216:11097?allowInsecure=1&sni=t.me%2Fripaojiedian#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://YWVzLTI1Ni1nY206UkkwVWNHdklrSURv@212.192.12.137:8388#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@xianggang2.zqjsqapi.com:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=xianggang2.zqjsqapi.com&type=ws&headerType=none&host=xianggang2.zqjsqapi.com&path=%2Fproxy#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.209:19081#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
