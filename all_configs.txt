@@ -2879,3 +2879,8 @@ vless://0ddfc8ce-745e-44f6-97d2-aaeeadbaaec8@srvusjrp.samanidempire.org:443?encr
 vless://3264ccbe-dbc5-4d14-8dbe-1c62041cc43f@104.18.46.50:443?&security=tls&fp=ios&sni=sk-hk1.feimavip.sbs&type=ws&headerType=none&host=sk-hk1.feimavip.sbs&path=%2Fhk%2F1#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjU2YWVhYS04ZTJkLTRiZGYtYjFkNy0yMzNlY2NhMTVmNTY@111.250.13.165:50099#🇹🇼 Join+Telegram:@SolVPN 🇹🇼
 ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.158:30312#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
+ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ@185.22.155.49:60129#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206OWNhMjgwM2MxNmRlNzJjZA@46.17.40.197:10986#🇷🇺 Join+Telegram:@SolVPN 🇷🇺
+ss://YWVzLTI1Ni1nY206OHlQRWgxemFRNmkx@192.124.176.82:8388#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.145.201.93:80#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#🇯🇵 Join+Telegram:@SolVPN 🇯🇵
