@@ -379,3 +379,4 @@ trojan://telegram-id-privatevpns@63.179.16.188:22222?security=tls&alpn=http/1.1&
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@138.124.32.188:30047?encryption=none&security=none&type=ws&path=%2F#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://0844ceed-af3c-46cd-9d29-2295309a1701@107.148.64.154:10507?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GwBhOiy3pLa73zga-wmG07xRfiI71_A9VDi-DiHeBWk&security=reality&sid=9153&sni=img14.360buyimg.com&type=tcp#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?allowInsecure=1&encryption=none&host=my.vulmart.ir&path=/&security=tls&sni=my.vulmart.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZmZVaDJtdms0SHNoVXR5c2tFZzlB@92.119.166.46:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
