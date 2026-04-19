@@ -1287,7 +1287,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowIns
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM@124.217.247.205:51348#🇲🇾 Join+Telegram:@SolVPN 🇲🇾
 vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 Join+Telegram:@SolVPN 🇬🇧
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh20v3.carwashipdir.shop&type=grpc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@162.159.45.73:443?encryption=none&security=tls&sni=zrf-623.pages.dev&type=ws&host=zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
+vless://26524cce-d514-4014-a426-365fb266a14d@38.207.186.129:14396?&security=tls&fp=chrome&sni=s3vz.user-service.chinav.indevs.in&type=ws&headerType=none&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@20.67.254.104:443?allowInsecure=0&sni=snippet.chinat.eu.cc&alpn=http/1.1&type=ws&host=snippet.chinat.eu.cc&path=/danfengfp=random&security=tls#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@20.67.254.104:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.chinat.eu.cc&type=ws&headerType=none&host=snippet.chinat.eu.cc&path=%2Fdanfeng#🇮🇪 Join+Telegram:@SolVPN 🇮🇪
 vless://e5a33157-a449-4a25-8bd4-d2b02d66aa38@de2.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#🇺🇿 Join+Telegram:@SolVPN 🇺🇿
