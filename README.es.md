@@ -1,6 +1,6 @@
 # 🌐 SolVPN - Free V2Ray Configs
 
-🔥 Fast and stable connections
+🔥 Fast, stable and secure connections
 
 ---
 
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries
+## 🌍 Countries Configs
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
@@ -38,14 +38,46 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ## ✨ Features
 
-- ✔️ Free & stable configs
-- ✔️ Multiple protocols support
-- ✔️ Fast subscription links
+- ✔️ Free & premium-like configs
+- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
+- ✔️ High speed optimized servers
 - ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG)
+- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
+- ✔️ One-click subscription support
+
+---
+
+## 🚀 How to Use
+
+1. Open your V2Ray client (V2Box recommended)
+2. Go to Subscriptions
+3. Paste any link
+4. Click Update / Refresh
+5. Connect and enjoy
+
+---
+
+## ❓ FAQ
+
+**Q: Is it free?**  
+A: Yes, completely free.
+
+**Q: Does it work on all apps?**  
+A: Yes, V2Box, V2RayNG, Shadowrocket supported.
+
+**Q: Why some links are slow?**  
+A: Servers vary by region and load.
+
+---
+
+## ⚠️ Disclaimer
+
+- Publicly collected configs  
+- Performance may vary  
+- Use responsibly  
 
 ---
 
 ## 🌐 Languages
 
-[English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | Español | [Français](README.fr.md) | [Deutsch](README.de.md)
+[English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | Español | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)
