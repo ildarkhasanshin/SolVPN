@@ -381,3 +381,4 @@ vless://0844ceed-af3c-46cd-9d29-2295309a1701@107.148.64.154:10507?encryption=non
 vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?allowInsecure=1&encryption=none&host=my.vulmart.ir&path=/&security=tls&sni=my.vulmart.ir&type=ws#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZmZVaDJtdms0SHNoVXR5c2tFZzlB@92.119.166.46:1080#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://telegram-id-privatevpns@3.125.219.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
+vless://e679aa5e-fde0-4e9f-ad46-63725e1c47f3@new-de.vcfco.ir:7500?security=reality&encryption=none&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn77.com&sid=77a3a1c829040294#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
