@@ -20,3 +20,5 @@ trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls&sni=evol
 trojan://WF42809561@premium-lab.rooster465.autos:443?allowInsecure=0&sni=premium-lab.rooster465.autos#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@18.162.47.125:15783#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ@82.117.225.66:20003#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@15.135.165.225:80#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.215.92:80#🇦🇺 Join+Telegram:@SolVPN 🇦🇺
