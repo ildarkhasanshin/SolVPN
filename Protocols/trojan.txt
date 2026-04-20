@@ -23,7 +23,6 @@ trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creation
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nnggf.66x.ccwu.cc:443?security=tls&sni=nnggf.66x.ccwu.cc&alpn=http/1.1&type=ws&host=nnggf.66x.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=/&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=1&%3Bhost=sni.111000.dynv6.net&%3Btype=ws&%3BallowInsecure=1&%3Bsni=sni.111000.dynv6.net#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com¬e=@FreeOnlineVPN#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://RmhZQ47pEm@180.131.145.169:18718?security=reality&sni=www.tesla.com&fp=chrome&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&sid=b7df2e7f077d&allowInsecure=1&type=grpc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
