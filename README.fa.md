@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN - کانفیگ‌های رایگان V2Ray
 
-🔥 Fast and stable V2Ray configs
+🔥 اتصال سریع و پایدار
 
 ---
 
-## 📡 V2Box Subscription Links
+## 📡 لینک‌های سابسکریپشن
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,23 +21,31 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ How to use
-1. Open V2Box  
-2. Add subscription  
-3. Paste link  
-4. Refresh  
+## ⚙️ پروتکل‌ها
+
+- VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
+- VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
+- Shadowsocks: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/shadowsocks.txt
+- Trojan: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/trojan.txt
+
+---
+
+## 🌍 کشورها
+
+🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
+
+---
+
+## ✨ ویژگی‌ها
+
+- ✔️ Free & stable configs
+- ✔️ Multiple protocols support
+- ✔️ Fast subscription links
+- ✔️ Regular updates
+- ✔️ Easy import (V2Box / V2RayNG)
 
 ---
 
 ## 🌐 Languages
 
-[English](README.md)
-فارسی
-[العربية](README.ar.md)
-[Русский](README.ru.md)
-[中文](README.zh.md)
-[Türkçe](README.tr.md)
-[हिन्दी](README.hi.md)
-[Español](README.es.md)
-[Français](README.fr.md)
-[Deutsch](README.de.md)
+[English](README.md) | فارسی | [العربية](README.ar.md) | [Русский](README.ru.md) | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
