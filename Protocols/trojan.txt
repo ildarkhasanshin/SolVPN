@@ -59,7 +59,6 @@ trojan://1234567890@194.28.226.153:8443?security=tls&sni=kfm-bn0.pages.dev&type=
 trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?path=/XCLcnSashhgSVE3HOw1VI85y&security=tls&host=ilop.uk2033.ccwu.cc&type=ws&sni=ilop.uk2033.ccwu.cc#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://1234567890@94.159.105.148:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://1234567890@138.124.32.0:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
-trojan://1234567890@194.87.227.66:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
 trojan://1234567890@2.27.45.100:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://trojan@54.46.72.234:8025?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🇨🇦 Join+Telegram:@SolVPN 🇨🇦
@@ -93,6 +92,7 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇪
 trojan://BxceQaOe@95.40.88.242:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🇸🇬 Join+Telegram:@SolVPN 🇸🇬
 trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#🇨🇳 Join+Telegram:@SolVPN 🇨🇳
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru#🇮🇸 Join+Telegram:@SolVPN 🇮🇸
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
 trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#🇳🇱 Join+Telegram:@SolVPN 🇳🇱
 trojan://telegram-id-privatevpns@52.29.103.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 Join+Telegram:@SolVPN 🇩🇪
 trojan://BxceQaOe@18.162.51.53:45285?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸 Join+Telegram:@SolVPN 🇺🇸
