@@ -1,10 +1,10 @@
-# 🌐 SolVPN - Free V2Ray Configs
+# 🌐 SolVPN - Бесплатные настройки V2Ray
 
-🔥 Fast, stable and secure connections
+🔥 Быстрые, стабильные и безопасные соединения
 
 ---
 
-## 📡 Subscription Links
+## 📡 Ссылки для подписки
 
 ```text
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## ⚙️ Protocols
+## ⚙️ Протоколы
 
 - VLESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vless.txt
 - VMESS: https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt
@@ -30,54 +30,54 @@ https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
 
 ---
 
-## 🌍 Countries Configs
+## 🌍 Конфигурации стран
 
 🔗 https://github.com/SoliSpirit/SolVPN/tree/main/Countrys
 
 ---
 
-## ✨ Features
+## ✨ Особенности
 
-- ✔️ Free & premium-like configs
-- ✔️ Multi-protocol support (VLESS / VMESS / SS / Trojan)
-- ✔️ High speed optimized servers
-- ✔️ Regular updates
-- ✔️ Easy import (V2Box / V2RayNG / Shadowrocket)
-- ✔️ One-click subscription support
-
----
-
-## 🚀 How to Use
-
-1. Open your V2Ray client (V2Box recommended)
-2. Go to Subscriptions
-3. Paste any link
-4. Click Update / Refresh
-5. Connect and enjoy
+- ✔️ Бесплатные и премиум-версии
+- ✔️ Поддержка нескольких протоколов (VLESS / VMESS / SS / Trojan)
+- ✔️ Высокоскоростные оптимизированные серверы
+- ✔️ Регулярные обновления
+- ✔️ Простой импорт (V2Box / V2RayNG / Shadowrocket)
+- ✔️ Поддержка подписки в один клик
 
 ---
 
-## ❓ FAQ
+## 🚀 Как использовать
 
-**Q: Is it free?**  
-A: Yes, completely free.
-
-**Q: Does it work on all apps?**  
-A: Yes, V2Box, V2RayNG, Shadowrocket supported.
-
-**Q: Why some links are slow?**  
-A: Servers vary by region and load.
+1. Откройте клиент V2Ray (рекомендуется V2Box)
+2. Перейдите в раздел «Подписки»
+3. Вставьте любую ссылку
+4. Нажмите «Обновить»
+5. Подключитесь и наслаждайтесь
 
 ---
 
-## ⚠️ Disclaimer
+## ❓ Часто задаваемые вопросы
 
-- Publicly collected configs  
-- Performance may vary  
-- Use responsibly  
+**В: Это бесплатно?**
+О: Да, совершенно бесплатно.
+
+**В: Работает ли на всех приложениях?**
+О: Да, поддерживаются V2Box, V2RayNG, Shadowrocket.
+
+**В: Почему некоторые ссылки работают медленно?**
+О: Серверы различаются в зависимости от региона и нагрузки.
+
+--
+
+## ⚠️ Отказ от ответственности
+
+- Общедоступные конфигурации
+- Производительность может варьироваться
+- Используйте ответственно
 
 ---
 
-## 🌐 Languages
+## 🌐 Языки
 
-[English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | Русский | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Bahasa Indonesia](README.id.md) | [Tiếng Việt](README.vi.md) | [Polski](README.pl.md) | [Українська](README.uk.md)
+[English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md) | Русский | [中文](README.zh.md) | [Türkçe](README.tr.md) | [हिन्दी](README.hi.md) | [Español](README.es.md) | [Французский](README.fr.md) | [Немецкий](README.de.md) | [Итальянский](README.it.md) | [Португальский](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Бахаса Индонезия](README.id.md) | [Tiếng Việt](README.vi.md) | [Польский](README.pl.md) | [Українська](README.uk.md)
